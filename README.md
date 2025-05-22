@@ -2,3 +2,6 @@
 # Variables
 # Nesting
 # Mixins and Functions
+# Partials: Importing partials
+# Tools for compiling
+# Workflow intergration
