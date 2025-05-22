@@ -11,14 +11,4 @@ div {
   @include margin-x(15px);
 }
 
-https://github.com/nait-furry/0x03-sass_scss
-mkdir airbnb-clone-project
-cd airbnb-clone-project
-git init                     # Initialize Git manually
-touch README.md              # or create your project files
-git add .
-git commit -m "Initial commit"
 
-git remote add origin https://github.com/YOUR_USERNAME/airbnb-clone-project.git
-git branch -M main          # optional: rename default branch to main
-git push -u origin main     # first push
